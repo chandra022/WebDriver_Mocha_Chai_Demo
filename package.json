@@ -1,0 +1,18 @@
+{
+  "name": "webdriver_mocha_chai",
+  "version": "1.0.0",
+  "description": "WebDriver JS with Mocha Chai",
+  "main": "index.js",
+  "scripts": {
+    "test":"mocha"
+   
+  },
+  "author": "chandrasekhar",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^129.0.0",
+    "mocha": "^10.7.3",
+    "mochawesome": "^7.1.3",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
